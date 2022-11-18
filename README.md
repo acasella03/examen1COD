@@ -5,4 +5,4 @@ Pasos seguidos en para realización del examen:
 2. Creo un nuevo repositorio (privado) en GitHub, hago mis primeras explicaciones modificando el README.md y hago mi primer commit. 
 3. Copio un programa hecho y cambio el nombre del autordel commit: git config user.name "Angita"
 4. Commit con Diagrama de Flujo
-![Diagrama](Diagrama.jpg)
+![Diagrama](/home/dam1/Descargas/Diagrama.jpg)
